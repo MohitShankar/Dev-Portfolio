@@ -1,0 +1,26 @@
+{
+    "experiences": [
+        {
+            "title": "Seller, Cashier and Warehouse worker",
+            "subtitle": "TJX Canada",
+            "workType": "Full-time",
+            "workDescription": [
+                "Operated cash register and POS to process sales transaction and handle payments.",
+                "De-escalate aggressive sistuations and facilitate proper communication",
+                "Fulfilled warehouse responsibilities, such as managaing inventory and team Collaboration."
+            ],
+            "dateText": "06/2021 – 12/2022"
+        },
+        {
+            "title": "Manager",
+            "subtitle": "Poutine&Co",
+            "workType": "Full-time",
+            "workDescription": [
+                "Set up payment software and synced it to all regiters and payment machines.",
+                "Managed latency issues and fixed hardware problems."
+            ],
+            "dateText": "04/2023 – 08/2023"
+        }
+       
+    ]
+}
